@@ -14,6 +14,6 @@ Open your console, copy and paste it in and press enter. Boom, done.
 
 # Important
 
-All of this code is and will remain to be open source. I have no intention of gaining any money or value from this.
+All of this code is and will remain to be open source and deobfuscated. I have no intention of gaining any money or value from this.
 In the event where I am requested to take it down by a body of authority of Squabble, I will respectfully do so.
 Please do not send me a cease and desist.
