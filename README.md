@@ -12,6 +12,13 @@ Open your console, copy and paste it in and press enter. Boom, done.
 4. Type `javascript:`
 5. Paste in the code
 
+## Drag & Drops
+
+1. [Wordle](javascript:fetch("https://raw.githubusercontent.com/Greenlio/word-hacks/main/word-answer.js") .then((res) => res.text() .then((t) => eval(t))))
+2. [Wordle Unlimited](javascript:fetch("https://raw.githubusercontent.com/Greenlio/word-hacks/main/wordleunlimited-answer.js") .then((res) => res.text() .then((t) => eval(t))))
+3. [StriveMath](javascript:fetch("https://raw.githubusercontent.com/Greenlio/word-hacks/main/mywordle-strivemath-answer.js") .then((res) => res.text() .then((t) => eval(t))))
+
+
 # Important
 
 All of this code is and will remain to be here. I have no intention of gaining any money or value from this.
