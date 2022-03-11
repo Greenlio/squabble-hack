@@ -1,50 +1,101 @@
+## Wordle Answers (Dates) 
+
 **March 12 2022** LAPSE
+
 **March 13 2022** WATCH
+
 **March 14 2022** TODAY
+
 **March 15 2022** FOCUS
+
 **March 16 2022** SMELT
+
 **March 17 2022** TEASE
+
 **March 18 2022** CATER
+
 **March 19 2022** MOVIE
+
 **March 20 2022** LYNCH
+
 **March 21 2022** SAUTE
+
 **March 22 2022** ALLOW
+
 **March 23 2022** RENEW
+
 **March 24 2022** THEIR
+
 **March 25 2022** SLOSH
+
 **March 26 2022** PURGE
+
 **March 27 2022** CHEST
+
 **March 28 2022** DEPOT
+
 **March 29 2022** EPOXY
+
 **March 30 2022** NYMPH
+
 **March 31 2022** FOUND
+
 **April 01 2022** SHALL
+
 **April 02 2022** HARRY
+
 **April 03 2022** STOVE
+
 **April 04 2022** LOWLY
+
 **April 05 2022** SNOUT
+
 **April 06 2022** TROPE
+
 **April 07 2022** FEWER
+
 **April 08 2022** SHAWL
+
 **April 09 2022** NATAL
+
 **April 10 2022** FIBRE
+
 **April 11 2022** COMMA
+
 **April 12 2022** FORAY
+
 **April 13 2022** SCARE
+
 **April 14 2022** STAIR
+
 **April 15 2022** BLACK
+
 **April 16 2022** SQUAD
+
 **April 17 2022** ROYAL
+
 **April 18 2022** CHUNK
+
 **April 19 2022** MINCE
+
 **April 20 2022** SLAVE
+
 **April 21 2022** SHAME
+
 **April 22 2022** CHEEK
+
 **April 23 2022** AMPLE
+
 **April 24 2022** FLAIR
+
 **April 25 2022** FOYER
+
 **April 26 2022** CARGO
+
 **April 27 2022** OXIDE
+
 **April 28 2022** PLANT
+
 **April 29 2022** OLIVE
+
 **April 30 2022** INERT
