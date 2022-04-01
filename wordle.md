@@ -1,101 +1,54 @@
 ## Wordle Answers (Dates) 
 
-**March 12 2022** LAPSE
 
-**March 13 2022** WATCH
+**April 01 2022** SNOUT
 
-**March 14 2022** TODAY
+**April 02 2022** TROPE
 
-**March 15 2022** FOCUS
+**April 03 2022** FEWER
 
-**March 16 2022** SMELT
+**April 04 2022** SHAWL
 
-**March 17 2022** TEASE
+**April 05 2022** NATAL
 
-**March 18 2022** CATER
+**April 06 2022** FIBRE
 
-**March 19 2022** MOVIE
+**April 07 2022** COMMA
 
-**March 20 2022** LYNCH
+**April 08 2022** FORAY
 
-**March 21 2022** SAUTE
+**April 09 2022** SCARE
 
-**March 22 2022** ALLOW
+**April 10 2022** STAIR
 
-**March 23 2022** RENEW
+**April 11 2022** BLACK
 
-**March 24 2022** THEIR
+**April 12 2022** SQUAD
 
-**March 25 2022** SLOSH
+**April 13 2022** ROYAL
 
-**March 26 2022** PURGE
+**April 14 2022** CHUNK
 
-**March 27 2022** CHEST
+**April 15 2022** MINCE
 
-**March 28 2022** DEPOT
+**April 16 2022** SLAVE
 
-**March 29 2022** EPOXY
+**April 17 2022** SHAME
 
-**March 30 2022** NYMPH
+**April 18 2022** CHEEK
 
-**March 31 2022** FOUND
+**April 19 2022** AMPLE
 
-**April 01 2022** SHALL
+**April 20 2022** FLAIR
 
-**April 02 2022** HARRY
+**April 21 2022** FOYER
 
-**April 03 2022** STOVE
+**April 22 2022** CARGO
 
-**April 04 2022** LOWLY
+**April 23 2022** OXIDE
 
-**April 05 2022** SNOUT
+**April 24 2022** PLANT
 
-**April 06 2022** TROPE
+**April 25 2022** OLIVE
 
-**April 07 2022** FEWER
-
-**April 08 2022** SHAWL
-
-**April 09 2022** NATAL
-
-**April 10 2022** FIBRE
-
-**April 11 2022** COMMA
-
-**April 12 2022** FORAY
-
-**April 13 2022** SCARE
-
-**April 14 2022** STAIR
-
-**April 15 2022** BLACK
-
-**April 16 2022** SQUAD
-
-**April 17 2022** ROYAL
-
-**April 18 2022** CHUNK
-
-**April 19 2022** MINCE
-
-**April 20 2022** SLAVE
-
-**April 21 2022** SHAME
-
-**April 22 2022** CHEEK
-
-**April 23 2022** AMPLE
-
-**April 24 2022** FLAIR
-
-**April 25 2022** FOYER
-
-**April 26 2022** CARGO
-
-**April 27 2022** OXIDE
-
-**April 28 2022** PLANT
-
-**April 29 2022** OLIVE
-
-**April 30 2022** INERT
+**April 26 2022** INERT
